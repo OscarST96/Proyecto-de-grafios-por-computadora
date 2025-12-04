@@ -20,13 +20,8 @@
     "com.unity.timeline": "1.8.9",
     "com.unity.toolchain.win-x86_64-linux-x86_64": "2.0.11",
     "com.unity.ugui": "2.0.0",
-<<<<<<< HEAD
-    "com.unity.visualeffectgraph": "17.0.3",
-    "com.unity.visualscripting": "1.9.5",
-=======
     "com.unity.visualeffectgraph": "17.0.4",
     "com.unity.visualscripting": "1.9.7",
->>>>>>> 4137b72f5a3ad058df23a4fd887ce3cd979cea46
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
